@@ -514,9 +514,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        'https://universityhq.org/wp-content/uploads/2020/02/university-florida2.jpg',  // Default background image
-        '#191E9A',          // Default primary color
-        '#D8C12E',          // Default secondary color
+        'https://www.usatoday.com/gcdn/presto/2019/03/21/USAT/0d9c29f1-95d6-4dc6-a08a-9443fd23fd12-VPC_FAV_FL_MAN_STORIES_SQ_floridatodayDOTCOM.jpg?crop=1079,821,x0,y236',  // Default background image
+        '#000000',          // Default primary color
+        '#E8E459',          // Default secondary color
         '1280'              // Default background resolution
     ].join('\n');
 
