@@ -514,9 +514,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        '/background.png',  // Default background image
-        '#111E2C',          // Default primary color
-        '#58AAFC',          // Default secondary color
+        'https://universityhq.org/wp-content/uploads/2020/02/university-florida2.jpg',  // Default background image
+        '#191E9A',          // Default primary color
+        '#D8C12E',          // Default secondary color
         '1280'              // Default background resolution
     ].join('\n');
 
