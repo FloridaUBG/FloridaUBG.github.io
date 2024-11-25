@@ -514,9 +514,9 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        '/background.png',  // Default background image
-        '#111E2C',          // Default primary color
-        '#58AAFC',          // Default secondary color
+        'https://www.usatoday.com/gcdn/presto/2019/03/21/USAT/0d9c29f1-95d6-4dc6-a08a-9443fd23fd12-VPC_FAV_FL_MAN_STORIES_SQ_floridatodayDOTCOM.jpg?crop=1079,821,x0,y236',  // Default background image
+        '#000000',          // Default primary color
+        '#FDFBED',          // Default secondary color
         '1280'              // Default background resolution
     ].join('\n');
 
